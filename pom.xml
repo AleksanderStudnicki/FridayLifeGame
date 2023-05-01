@@ -27,7 +27,7 @@
         <version.plugin.maven.jar>3.1.0</version.plugin.maven.jar>
         <version.plugin.maven.compiler>3.8.0</version.plugin.maven.compiler>
         <version.plugin.maven.resources>3.1.0</version.plugin.maven.resources>
-        <version.testng>7.1.0</version.testng>
+        <version.testng>7.7.0</version.testng>
     </properties>
 
     <dependencies>
